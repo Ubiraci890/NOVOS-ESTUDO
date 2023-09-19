@@ -1,2 +1,3 @@
 # ESTUDO PALAVRA
  APRENDEDO E ESTUDANDO.
+ Aqui so teste.
